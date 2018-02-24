@@ -1,2 +1,2 @@
 # energon
-cryptomoneda usada por los autobots para intercambio de nergia
+cryptomoneda usada por los autobots para intercambio de energia cosmica.
