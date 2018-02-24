@@ -1,0 +1,9 @@
+Building Energon
+
+See doc/readme-qt.rst for instructions on building Energon-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Energon.
+
+See doc/build-*.txt for instructions on building energond,
+the intended-for-services, no-graphical-interface, reference
+implementation of Energon.
